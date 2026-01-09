@@ -18,6 +18,8 @@ This project helped strengthen my understanding of DOM manipulation, event handl
 * Efficient handling of user input and calculations
 * Beginner-friendly and lightweight web application
 
+-> Special thanks to Prodigy Info Tech for the internship opportunity #OasisInfobyte
+
 
 
 
